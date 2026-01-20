@@ -1,0 +1,21 @@
+# Backend
+Employee-Management/target/
+Employee-Management/.mvn/wrapper/maven-wrapper.jar
+Employee-Management/.idea
+Employee-Management/*.iml
+Employee-Management/.vscode/
+
+# Frontend
+employee-frontend/node_modules/
+employee-frontend/build/
+employee-frontend/.env.local
+employee-frontend/.env.development.local
+employee-frontend/.env.test.local
+employee-frontend/.env.production.local
+employee-frontend/npm-debug.log*
+employee-frontend/yarn-debug.log*
+employee-frontend/yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
